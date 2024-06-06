@@ -1,0 +1,14 @@
+.radio-center {
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 2rem;
+}
+
+.radio-input-label>label {
+    margin-right: 20px;
+}
+
+.radio-input-label {
+    display: inline-block;
+}
